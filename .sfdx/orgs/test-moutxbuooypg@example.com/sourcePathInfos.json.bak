@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518515621175,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518515621175,
@@ -30,24 +30,22 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1518516684425,
-            "changeTime": 1518516684425,
-            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "modifiedTime": 1518517581450,
+            "changeTime": 1518517581450,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518515780266,
@@ -60,9 +58,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518515780293,
@@ -75,9 +73,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.auradoc",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.auradoc",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.auradoc",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1518515780291,
@@ -90,24 +88,23 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp",
             "isDirectory": false,
-            "size": 1575,
-            "modifiedTime": 1518516403970,
-            "changeTime": 1518516403970,
-            "contentHash": "1133e9e3c4f6bf15464cead3a915fa42ceddaab3",
+            "size": 1607,
+            "modifiedTime": 1518517470989,
+            "changeTime": 1518517470989,
+            "contentHash": "52cf52be8d852b1a06798ef9f445b2389c5d21c2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.cmp-meta.xml",
             "isDirectory": false,
             "size": 245,
             "modifiedTime": 1518515780272,
@@ -120,9 +117,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.css",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.css",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.css",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.css",
             "isDirectory": false,
             "size": 10,
             "modifiedTime": 1518515780282,
@@ -135,9 +132,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.design",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.design",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.design",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1518515780293,
@@ -150,9 +147,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.svg",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.svg",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.svg",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponent.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1518515780288,
@@ -165,9 +162,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentController.js",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentController.js",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentController.js",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentController.js",
             "isDirectory": false,
             "size": 465,
             "modifiedTime": 1518516436752,
@@ -180,9 +177,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentHelper.js",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentHelper.js",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentHelper.js",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentHelper.js",
             "isDirectory": false,
             "size": 680,
             "modifiedTime": 1518516450686,
@@ -195,9 +192,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentRenderer.js",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentRenderer.js",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentRenderer.js",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\aura\\DemoComponent\\DemoComponentRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1518515780285,
@@ -210,9 +207,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518516684425,
@@ -225,9 +222,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes\\ExpensesController.cls",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes\\ExpensesController.cls",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls",
             "isDirectory": false,
             "size": 236,
             "modifiedTime": 1518516701364,
@@ -240,9 +237,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
             "isDirectory": false,
             "size": 196,
             "modifiedTime": 1518516658999,
@@ -255,9 +252,9 @@
         }
     ],
     [
-        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1",
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test",
         {
-            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\Dev1",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1518515867115,
@@ -267,6 +264,214 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\fields\\Text_Field__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\fields\\Text_Field__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1518517581291,
+            "changeTime": 1518517581291,
+            "contentHash": "cbc06f5a2c505dfb24a805126df57a4fb26ab588",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules\\Test_ValidationRule.validationRule-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules\\Test_ValidationRule.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1518517581300,
+            "changeTime": 1518517581300,
+            "contentHash": "f976a7eb6d82b1f78b650dd8b6e683414e06de51",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8566,
+            "modifiedTime": 1518517581334,
+            "changeTime": 1518517581334,
+            "contentHash": "025a4f5328fe8224c243e4047cfdd8397d99f80b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8574,
+            "modifiedTime": 1518517581396,
+            "changeTime": 1518517581396,
+            "contentHash": "3aa9ce0f31a5645e18d8d4710f2afe04ea939bc8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8477,
+            "modifiedTime": 1518517581418,
+            "changeTime": 1518517581418,
+            "contentHash": "7c4a81103901dfe3d1cf9e105b06174fd017afc4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8614,
+            "modifiedTime": 1518517581435,
+            "changeTime": 1518517581435,
+            "contentHash": "7553c5e23c2324dbf47e617f7860c9b2f1bb782e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4730,
+            "modifiedTime": 1518517581456,
+            "changeTime": 1518517581456,
+            "contentHash": "303d39f2d2b1f1635fe3fe4fd30a640872882617",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5070,
+            "modifiedTime": 1518517581469,
+            "changeTime": 1518517581469,
+            "contentHash": "373b3a0809a18a6fe8b11bdfc92962971bf9ed70",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4734,
+            "modifiedTime": 1518517581507,
+            "changeTime": 1518517581507,
+            "contentHash": "8f95ffcbfe3519698de6e17186eeb3bd9b0e7959",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17773,
+            "modifiedTime": 1518517581538,
+            "changeTime": 1518517581538,
+            "contentHash": "08e78ec47ed11fefbafe216873904f682e095d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581290,
+            "changeTime": 1518517581290,
+            "contentHash": "a36980826432854ebf15386539c346369eff2778",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581292,
+            "changeTime": 1518517581292,
+            "contentHash": "c5969b9c985ca395a81da87a6334b04dd42cfe9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581280,
+            "changeTime": 1518517581280,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581299,
+            "changeTime": 1518517581299,
+            "contentHash": "a47777895519c0a67412fc99187972b3276ed49b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581434,
+            "changeTime": 1518517581434,
+            "contentHash": "c5ade36d37288035b03b0a902c5324ccab128aba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518517581537,
+            "changeTime": 1518517581537,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
