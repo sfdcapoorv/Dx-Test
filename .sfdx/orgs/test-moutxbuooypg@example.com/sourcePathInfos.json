@@ -216,27 +216,27 @@
     [
         "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 462,
             "modifiedTime": 1518519547530,
             "changeTime": 1518519547530,
-            "contentHash": "7b356bff1302a398c94a09311a8b148972037076"
+            "contentHash": "7b356bff1302a398c94a09311a8b148972037076",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\classes\\ExpensesController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1518519547517,
             "changeTime": 1518519547517,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -425,14 +425,14 @@
     [
         "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1518518548496,
-            "changeTime": 1518517581299,
-            "contentHash": "a47777895519c0a67412fc99187972b3276ed49b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1518524814586,
+            "changeTime": 1518524814586,
+            "contentHash": "1e212f4a0b21ce3df5c5184d2486f2c74b2501ce"
         }
     ],
     [
@@ -459,6 +459,19 @@
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules\\Test_Vlidation2.validationRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\apoorv.x.jain\\SFDX PRJ\\dev2\\Dx-Test\\force-app\\main\\default\\objects\\Opportunity\\validationRules\\Test_Vlidation2.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1518524814587,
+            "changeTime": 1518524814587,
+            "contentHash": "ad7f5cde328e53f42e09b8a89ae8e44060e2dc40"
         }
     ]
 ]
