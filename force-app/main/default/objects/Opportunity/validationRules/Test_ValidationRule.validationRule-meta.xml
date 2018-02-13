@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test_ValidationRule</fullName>
+    <active>true</active>
+    <errorConditionFormula>CloseDate &lt; today()</errorConditionFormula>
+    <errorMessage>Close Date cannot be less that today date</errorMessage>
+</ValidationRule>
